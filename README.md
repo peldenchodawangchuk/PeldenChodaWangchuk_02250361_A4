@@ -9,7 +9,7 @@ A simple Flask web application deployed using GitHub Actions (CI/CD) and Render.
 https://peldenchodawangchuk-02250361-a4.onrender.com
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - **GitHub** – Version control and repository hosting
 - **GitHub Actions** – CI/CD pipeline automation
